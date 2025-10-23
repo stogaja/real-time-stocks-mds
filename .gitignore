@@ -1,0 +1,74 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.coverage
+.coverage.*
+.pytest_cache/
+htmlcov/
+coverage.xml
+.tox/
+.nox/
+.cache/
+
+# Type checkers / linters
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# dbt artifacts
+target/
+logs/
+dbt_packages/
+dbt_modules/
+
+# Airflow (if present)
+airflow/logs/
+airflow/*.pid
+
+# Local temp
+tmp/
+temp/
