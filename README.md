@@ -14,7 +14,7 @@
 This project demonstrates an **end-to-end real-time data pipeline** using the **Modern Data Stack**.  
 We capture **live stock market data** from an external API, stream it in real time, orchestrate transformations, and deliver analytics-ready insights — all in one unified project.
 
-![Architecture (1)](https://github.com/user-attachments/assets/6b49eb4d-4bf7-473d-9281-50c20b241760)
+![Architecture (1)](https://github.com/stogaja/real-time-stocks-mds/blob/main/images/image.png)
 
 
 ---
